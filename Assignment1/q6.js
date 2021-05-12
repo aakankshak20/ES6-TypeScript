@@ -1,0 +1,11 @@
+"use strict";
+console.log("Regarding with Laptop Issue\n                For this below are my details for laptop and position\n                please consider this request for solving issue\n");
+var laptopModel = "Inspiron15";
+var deskNo = "D535632";
+var name1 = "Aakanksha Kale";
+console.log("laptopModel");
+console.log(laptopModel);
+console.log("deskNo");
+console.log(deskNo);
+console.log("name");
+console.log(name1);
